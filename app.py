@@ -19,6 +19,7 @@ class winLog1:
     
     
     
+    
     root.mainloop()
     
     
